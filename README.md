@@ -8,7 +8,7 @@
 
 
 ## setup
-- uproot_methodsがnumpy==1.24.xだと動かないので注意
+- uproot_methodsがnumpy<=1.23じゃないと動かないので注意
 
 ```
 pip install -r requirements.txt
