@@ -12,7 +12,7 @@
 
 ```
 pip install -r requirements.txt
-mkdir models
+mkdir models processed
 ```
 
 ## usage
