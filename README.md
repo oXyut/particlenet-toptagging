@@ -12,4 +12,10 @@
 
 ```
 pip install -r requirements.txt
+mkdir models
 ```
+
+## usage
+- `1_check_dataset.ipynb`でデータセットの確認（別に動かす必要はない）
+- `2_preprocessing.ipynb`でデータの前処理（`/processed/`以下にデータセットが作成されます）
+- `3_train.ipynb`で学習（`/models/`以下にモデルと学習履歴が保存されます）
